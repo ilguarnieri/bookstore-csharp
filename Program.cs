@@ -1,6 +1,6 @@
 ﻿string title = "Harry Potter e i doni della morte";
 string author = "J. K. Rowling";
-string isbn = "978-8831003445";
+long isbn = 9788831003445;
 short pagesNum = 688;
 short weight = 480;
 float width = 13.6f;
